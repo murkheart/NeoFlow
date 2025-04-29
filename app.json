@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "NeoFlow",
+    "slug": "NeoFlow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LOGONF.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/LOGONF.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LOGONF.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/LogoOnly.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7f3094fb-6ef6-413e-a0db-63d2e64f5909"
+      }
+    }
+  }
+}
