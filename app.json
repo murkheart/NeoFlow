@@ -3,7 +3,7 @@
     "name": "NeoFlow",
     "slug": "NeoFlow",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/LOGONF.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/LOGONF.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jcscoding.NeoFlow"
     },
     "web": {
       "favicon": "./assets/LogoOnly.png"
