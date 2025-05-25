@@ -20,7 +20,7 @@ const initialLogo = require("./assets/LogoOnlyFinalUI.png");
 const newLogo = require("./assets/LogoOnly.png");
 const htuBackground = require("./assets/htubg.png")
 const gwFinalBackground = require("./assets/gwnew.png");
-const aboutBackground = require("./assets/aboutbg.png")
+const aboutBackground = require("./assets/abtbg.png")
 const srfsLogo = require("./assets/srfsLogo.png");
 const gwLogo = require("./assets/gwLogo.png");
 const eorLogo = require("./assets/eorLogo.png"); 
@@ -1431,7 +1431,7 @@ function ToolScreen({ route, navigation }) {
       finalLogo: require("./assets/eorLogo.png"),
     },
     "About Us":{
-      finalBg: require("./assets/aboutbg.png"),
+      finalBg: require("./assets/abtbg.png"),
       finalLogo: require("./assets/LogoOnlyFinalUI.png"),
     },
     "How To Use":{
